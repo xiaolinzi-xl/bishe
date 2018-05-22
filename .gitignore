@@ -1,0 +1,10 @@
+
+# pycharm
+.idea/*
+*.xml
+
+# python
+*.pyc
+
+# 配置文件
+config.py
